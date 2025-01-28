@@ -44,6 +44,7 @@ python mouse_trajectory_model.py
 - `trajectory_model.pth`: 训练模型
 - `training_history_*.png`: 训练过程图
 - `training_history_*.json`: 训练数据
+![training_history_20250128_124452](https://github.com/user-attachments/assets/382d8585-b553-4874-896c-5156b2b0f4dd)
 
 ### 3. 测试生成
 
@@ -76,6 +77,7 @@ python test_trajectory.py
 - 真实轨迹对比
 - 可视化分析
 - 轨迹平滑处理
+![image](https://github.com/user-attachments/assets/ce6a3a6d-0318-4578-9167-32e27a2b2207)
 
 ## 📈 模型参数
 
